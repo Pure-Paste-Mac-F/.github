@@ -1,7 +1,7 @@
 # Pure Paste Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/submission/642685/d/512x512bb-2afd4d12-logo.png" width="200" alt="Pure Paste icon"/>
+  <img src="https://sindresorhus.com/apps/pure-paste/icon.png" width="200" alt="Pure Paste icon"/>
 </p>
 
 <p align="center">
